@@ -1,0 +1,10 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de log
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de sistema como .DS_Store (macOS) o Thumbs.db (Windows)
+.DS_Store
+Thumbs.db
