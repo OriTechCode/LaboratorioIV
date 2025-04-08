@@ -1,4 +1,7 @@
 ```
+Crear build de React:
+npm run build
+
 Ir a la carpeta del servidor:
 
 cd servidor
